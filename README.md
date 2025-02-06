@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Rust, Linux, and Low-End Hardware!
 - 🌱 I’m currently learning ... Rust, Linux Cyber Security, and how to get a job!
 - 💞️ I’m looking to collaborate on ... Rust Projects, just let me know!
-- 📫 How to reach me ... email me at `icamefromgithub@thelinux.dev`
+- 📫 How to reach me ... email me at `github-readme@thelinux.dev`
 - ⚡ Fun fact: ... I use arch BTW! (Sorry the joke wrote itself)
 - ⚡ In good fun, here is a real fun fact: I enjoy at least 4 cups of tea a day!
 
