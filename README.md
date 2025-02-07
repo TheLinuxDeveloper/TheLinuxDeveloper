@@ -6,6 +6,7 @@
 - ⚡ Fun fact: ... I use arch BTW! (Sorry the joke wrote itself)
 - ⚡ In good fun, here is a real fun fact: I enjoy at least 4 cups of tea a day!
 
+  ![My Codewars Badge](https://www.codewars.com/users/TheLinuxDeveloper/badges/small)
 <!---
 TheLinuxDeveloper/TheLinuxDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
